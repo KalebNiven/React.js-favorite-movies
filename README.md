@@ -37,3 +37,6 @@ const profiles = [
 From this information, one of the list items might look like this:
 
 > Jane Cruz's favorite movie is Planet Earth 1.
+
+
+![alt text](https://github.com/KalebNiven/React.js-favorite-movies/blob/master/screenshot.JPG)
